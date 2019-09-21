@@ -5,7 +5,7 @@ def func_a():
 
 class Demo:
     def method1(self):
-        pass
+        return 1
 
     def new_method(self):
         a = 1
