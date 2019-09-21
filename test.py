@@ -4,8 +4,8 @@ def func_a():
 
 
 class Demo:
-    def old_method(self):
-        return 2
+    def method1(self):
+        return 1
 
     def new_method(self):
         a = 1
