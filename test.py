@@ -4,7 +4,7 @@ def func_a():
 
 
 class Demo:
-    def method1(self):
+    def old_method(self):
         pass
 
     def new_method(self):
